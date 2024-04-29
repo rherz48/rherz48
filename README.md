@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Ryan and I'm currently studying Computer Science.
+
+Currently working to add more public repositories. Most of my projects are private.
+
 <!--
 **rherz48/rherz48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
