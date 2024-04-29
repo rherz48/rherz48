@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+I hope you're having a good day!
+
 My name is Ryan and I'm currently studying Computer Science.
 
-Currently working to add more public repositories. Most of my projects are private.
+I'm currently working to add more public repositories to my GitHub. Most of my projects are currently private.
 
 <!--
 **rherz48/rherz48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
